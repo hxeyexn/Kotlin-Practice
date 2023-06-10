@@ -1,2 +1,2 @@
 # Kotlin-Practice
-[🦁앱 SCHOOL 2기 : Android] kotlin project 연습
+[🦁앱 SCHOOL 2기 : Android] kotlin 연습
